@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/Linux_for_backend.md",
+                "file": "linux/Linux02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux_for_backend"
+              "title": "Linux02"
             }
           }
         ],
@@ -195,16 +195,16 @@
   },
   "active": "1bff54f54919fc5a",
   "lastOpenFiles": [
+    "linux/linux01.md",
+    "linux/Linux_for_backend.md",
     "linux/Linux02.md",
     "images/Image importer.md",
     "images/nano_interphase.jpg",
     "images/cp_command.jpg",
     "images/tree.jpg",
-    "linux/linux01.md",
     "images/cd.jpg",
     "images/bash_shell_level.jpg",
     "Untitled",
-    "linux/Linux_for_backend.md",
     "images/ls.jpg",
     "images",
     "linux"
