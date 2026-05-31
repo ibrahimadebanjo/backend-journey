@@ -4,24 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "e0372389dbc8b5e2",
+        "id": "b040ae690a6ba523",
         "type": "tabs",
         "children": [
           {
-            "id": "45daf28ef6c19b17",
+            "id": "5694c5cffa24c9d2",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/tree.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "tree"
+            }
+          },
+          {
+            "id": "ce93c3a926c6d8bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux/Linux02.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linux02"
+            }
+          },
+          {
+            "id": "1bff54f54919fc5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "linux/Linux_for_backend.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Linux_for_backend"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,6 +139,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "linux/Linux_for_backend.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -165,8 +193,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "45daf28ef6c19b17",
+  "active": "1bff54f54919fc5a",
   "lastOpenFiles": [
+    "linux/Linux02.md",
+    "images/Image importer.md",
+    "images/nano_interphase.jpg",
+    "images/cp_command.jpg",
+    "images/tree.jpg",
+    "linux/linux01.md",
+    "images/cd.jpg",
+    "images/bash_shell_level.jpg",
+    "Untitled",
+    "linux/Linux_for_backend.md",
+    "images/ls.jpg",
+    "images",
     "linux"
   ]
 }

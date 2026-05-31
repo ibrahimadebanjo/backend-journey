@@ -38,4 +38,4 @@ Key Concepts
 That gives you the problem, the fix, and the why, all in one place. You can tag it `#termux #ubuntu #android` for easy search later.```
 ```
 
-![Screenshot_20260529-113224](Screenshot_20260529-113224.jpg)
+![Screenshot_20260529-113224](setup.jpg)

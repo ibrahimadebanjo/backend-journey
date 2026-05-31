@@ -1,5 +1,12 @@
+
 Date : 31|05|26
-1. Files, Data Blocks & Storage
+
+1. Nano environment
+![nano](../images/nano_interphase.jpg)
+
+2. Copying files with cp filename filedestination_path and coo 
+![cp_command](../images/cp_command.jpg)
+3. Files, Data Blocks & Storage
 
 Plain Text & Data Blocks
 - **Data Block 1201**  
@@ -159,4 +166,6 @@ Regex - Search Patterns
 `sed`
 Not fully detailed in notes, but often used with `grep` for stream editing.
 
----
+--------------------------
+
+![nano](../images/nano_interphase.jpg)

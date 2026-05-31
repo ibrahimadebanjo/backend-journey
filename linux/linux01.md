@@ -10,7 +10,7 @@ Reining bash multiple times nests new one on top
 
 3. echo $SHLVL
 `echo $SHLVL` This is a command that is used to check the level of shell you're in.
-![Screenshot_20260528-121125](Screenshot_20260528-121125.jpg) 
+![Screenshot_20260528-121125](bash_shell_level.jpg) 
 
 
 LINUX DIRECTORY TREE NAVIGATION
@@ -26,7 +26,7 @@ Nb: if you want to check username type: `whoami` on Ubuntu
 6. `sudo apt install tree`
 7. `tree`
 
-![Screenshot_20260528-095713](Screenshot_20260528-095713.jpg)
+![Screenshot_20260528-095713](tree.jpg)
 
 INODES AND INODE TABLE
 Inode is what Linux use to keep track of files or folders separate from the filename.
@@ -34,7 +34,7 @@ Using command like `ls -i`, `ls -li`to see informatios on files.
 
 Ls
 List file directories
-![Screenshot_20260528-121854](Screenshot_20260528-121854.jpg) 
+![Screenshot_20260528-121854](ls.jpg) 
 
 Pwd
  Full path from root to current working directory. Only takes 2 flags
@@ -52,7 +52,7 @@ Nb: can create the symlink in the root or anywhere it'll be pointing to the path
 Use em symlinname to delete symlink
 
 
-![Screenshot_20260528-110902](Screenshot_20260528-110902.jpg) 
+![Screenshot_20260528-110902](cd.jpg) 
 
 2. HARDLINK
 This represent another name for the file i.e if file is deleted, hardlink will represent the file but with another name. 
