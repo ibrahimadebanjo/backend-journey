@@ -11,10 +11,14 @@
             "id": "45daf28ef6c19b17",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "linux/Linux_for_backend.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Linux_for_backend"
             }
           }
         ]
