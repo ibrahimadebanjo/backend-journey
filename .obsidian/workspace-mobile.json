@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python_challenge.md",
+                "file": "python_challenge/Python_challenge.md",
                 "mode": "source",
                 "source": false
               },
@@ -207,11 +207,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "e77a3951d3fc3661",
+  "active": "42e9840df67325ab",
   "lastOpenFiles": [
     "images/population_challenge.jpg",
     "images/descend_challenge.jpg",
-    "Python_challenge.md",
+    "python_challenge/Python_challenge.md",
     "linux/Linux02.md",
     "linux/linux01.md",
     "linux/Linux_for_backend.md",
