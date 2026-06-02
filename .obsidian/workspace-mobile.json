@@ -4,65 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "b040ae690a6ba523",
+        "id": "81eb11b3cb514d8c",
         "type": "tabs",
         "children": [
           {
-            "id": "5694c5cffa24c9d2",
+            "id": "61732b5bdc7525a4",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "images/tree.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "tree"
-            }
-          },
-          {
-            "id": "ce93c3a926c6d8bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/Linux02.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Linux02"
-            }
-          },
-          {
-            "id": "1bff54f54919fc5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/Linux02.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Linux02"
-            }
-          },
-          {
-            "id": "e77a3951d3fc3661",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "python_challenge/Python_challenge.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Python_challenge"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,7 +108,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "linux/Linux_for_backend.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -207,12 +161,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "42e9840df67325ab",
+  "active": "61732b5bdc7525a4",
   "lastOpenFiles": [
+    "linux/Linux02.md",
+    "python_challenge/Python_challenge.md",
+    "images/protein_translation.jpg",
+    "images/protein_result.jpg",
     "images/population_challenge.jpg",
     "images/descend_challenge.jpg",
-    "python_challenge/Python_challenge.md",
-    "linux/Linux02.md",
     "linux/linux01.md",
     "linux/Linux_for_backend.md",
     "images/Image importer.md",
