@@ -20,3 +20,11 @@ Day 02 : 2nd june 2026
 ![protein result](../images/protein_result.jpg)
 
 Note: This tests my knowledge on loops, if else statements and lists.
+
+Day03 : 3rd June 2026
+4. Are they the same challenge - codewars
+
+This checks if array in b are square root or those in a.
+![Are they the same challenge](square_root.jpg)
+
+Day04 : 

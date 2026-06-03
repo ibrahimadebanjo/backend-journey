@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "61732b5bdc7525a4",
+            "id": "a558c9783cbfc6ce",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "python_challenge/Quick_pro_revision_and_tricks.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Quick_pro_revision_and_tricks"
             }
           }
         ]
@@ -108,6 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "python_challenge/Quick_pro_revision_and_tricks.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -161,24 +166,26 @@
       "bases:Create new base": false
     }
   },
-  "active": "61732b5bdc7525a4",
+  "active": "42e9840df67325ab",
   "lastOpenFiles": [
-    "linux/Linux02.md",
+    "python_challenge/Quick_pro_revision_and_tricks.md",
     "python_challenge/Python_challenge.md",
+    "images/square_root.jpg",
+    "python_challenge/are_they_the_same_challenge.py",
+    "images/square_root.jpg",
+    "images/unpacking.jpg",
+    "images/slicing.jpg",
+    "images/list_comprehension.jpg",
+    "images/list_methods_result.jpg",
+    "images/descend_challenge.jpg",
+    "images/list_methods.jpg",
+    "linux/Linux02.md",
     "images/protein_translation.jpg",
     "images/protein_result.jpg",
-    "images/population_challenge.jpg",
-    "images/descend_challenge.jpg",
     "linux/linux01.md",
     "linux/Linux_for_backend.md",
     "images/Image importer.md",
-    "images/nano_interphase.jpg",
-    "images/cp_command.jpg",
-    "images/tree.jpg",
-    "images/cd.jpg",
-    "images/bash_shell_level.jpg",
     "Untitled",
-    "images/ls.jpg",
     "images",
     "linux"
   ]
