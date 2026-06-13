@@ -25,6 +25,7 @@ Day03 : 3rd June 2026
 4. Are they the same challenge - codewars
 
 This checks if array in b are square root or those in a.
-![Are they the same challenge](square_root.jpg)
+![Are they the same challenge](../images/square_root.jpg)
+
 
 Day04 : 
