@@ -92,4 +92,21 @@ for x in lst:
 
 
 2. Strings and it's tricks 
- 
+ ![string_tricks03](../images/string_tricks03.jpg)
+
+![string_tricks02](../images/string_tricks02.jpg)
+
+
+![string_tricks01](../images/string_tricks01.jpg)
+
+
+3. Conversion tricks 
+
+![conversion_tricks](../images/conversion_tricks.jpg)
+4. Statements and operators tricks 
+
+![statements_and_operator_tricks](../images/so_tricks.jpg)
+
+Done 🥳✨
+Continuing python challenge tomorrow.
+Completed  : June 14 2026
