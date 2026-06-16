@@ -1,7 +1,6 @@
 After learning python while I was studying machine learning. I felt no need to go over and start again for backend engineering journey which made me come to a decision of solving challenges for 2 weeks to refresh my memory and stay on tract in my python skills sets.
 I choose to so do this challenge with codewars and exercism.
-Started: 1st July 2026 after completing Linux basics.
-
+Started: 1st July 2026 after completing Linux basics and challenge will be ending 30th of June 🥳
 Day01 : 1st June 2026
 1. Descending challenge — codewars
 ![descending_challenge](../images/descend_challenge.jpg)
@@ -28,4 +27,10 @@ This checks if array in b are square root or those in a.
 ![Are they the same challenge](../images/square_root.jpg)
 
 
-Day04 : 
+Day04 : June 16, 2026
+5. Is a number prime challenge
+
+![Is a number prime challenge](../images/is_a_number_prime01.jpg)
+
+
+![is a number prime challenge](../images/is_a_number_prime02.jpg)
