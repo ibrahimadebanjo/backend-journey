@@ -1,6 +1,7 @@
 After learning python while I was studying machine learning. I felt no need to go over and start again for backend engineering journey which made me come to a decision of solving challenges for 2 weeks to refresh my memory and stay on tract in my python skills sets.
 I choose to so do this challenge with codewars and exercism.
-Started: 1st July 2026 after completing Linux basics and challenge will be ending 30th of June 🥳
+Started: 1st July 2026 after completing Linux basics.
+
 Day01 : 1st June 2026
 1. Descending challenge — codewars
 ![descending_challenge](../images/descend_challenge.jpg)
@@ -34,3 +35,11 @@ Day04 : June 16, 2026
 
 
 ![is a number prime challenge](../images/is_a_number_prime02.jpg)
+Day 05: June 19, 2026
+6. How old will I be in 2099 challenge
+
+![python challenge 06](../images/python_challenge06_2.jpg)
+
+![python challenge 06](../images/python_challenge06_1.jpg)
+
+Challenge ends June 30, 2026 🥳

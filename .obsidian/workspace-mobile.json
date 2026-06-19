@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python_challenge/Quick_pro_revision_and_tricks.md",
-                "mode": "preview",
+                "file": "python_challenge/Python_challenge.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quick_pro_revision_and_tricks"
+              "title": "Python_challenge"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "python_challenge/Quick_pro_revision_and_tricks.md",
+            "file": "python_challenge/Python_challenge.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -166,12 +166,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "a558c9783cbfc6ce",
+  "active": "659cb293d7224503",
   "lastOpenFiles": [
+    "images/python_challenge06_1.jpg",
+    "images/python_challenge06_2.jpg",
+    "python_challenge/Quick_pro_revision_and_tricks.md",
     "python_challenge/Python_challenge.md",
     "images/is_a_number_prime02.jpg",
     "images/is_a_number_prime01.jpg",
-    "python_challenge/Quick_pro_revision_and_tricks.md",
     "Untitled.md",
     "images/so_tricks.jpg",
     "images/conversion_tricks.jpg",
@@ -181,7 +183,6 @@
     "images/square_root.jpg",
     "python_challenge/are_they_the_same_challenge.py",
     "images/square_root.jpg",
-    "images/unpacking.jpg",
     "linux/Linux02.md",
     "linux/linux01.md",
     "linux/Linux_for_backend.md",
