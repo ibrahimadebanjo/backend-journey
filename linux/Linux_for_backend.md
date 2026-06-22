@@ -2,10 +2,10 @@
 Date : 31|05|26
 
 1. Nano environment
-![nano](../images/nano_interphase.jpg)
+![nano](images/nano_interphase.jpg)
 
 2. Copying files with cp filename filedestination_path and coo 
-![cp_command](../images/cp_command.jpg)
+![cp_command](cp_command.jpg)
 3. Files, Data Blocks & Storage
 
 Plain Text & Data Blocks
@@ -30,7 +30,7 @@ Terminal Filename Conventions
 2. No spaces. Use:
    - Underscore: `my_file.txt`
    - Backslash + space: `my\ file.txt`
-   - Backslash before any special character.
+ - Backslash before any special character.
 
 ---
 
@@ -167,5 +167,3 @@ Regex - Search Patterns
 Not fully detailed in notes, but often used with `grep` for stream editing.
 
 --------------------------
-
-![nano](../images/nano_interphase.jpg)

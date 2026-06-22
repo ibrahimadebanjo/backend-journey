@@ -19,13 +19,12 @@ lst.count(x)         # how many x in list
 lst.extend([a,b])    # add multiple items
 lst.clear()          # empty the list`
 
-![List_methods](../images/list_methods.jpg)
+![List_methods](images/list_methods.jpg)
 
 
 B. Result 
 
-![List_methods_result](../images/list_methods_result.jpg)
-
+![List_methods_result](images/list_methods_result.jpg)
 
 C. Tricks
 i. List comprehension
@@ -43,7 +42,7 @@ for x in [10, 20, 30]:
         new_list.append(x * 2)
  new_list is now [40, 60] `
 
-![List_comprehension](../images/list_comprehension.jpg)
+![List_comprehension](images/list_comprehension.jpg)
 
 ii. Slicing
 This is a way of pulling out a chunk or pieces or portion of a list, string or tupple by just specifying start, stop and step positions.
@@ -60,7 +59,7 @@ I.e
 - `lst[::2]   # [0,2,4] - every 2nd item`
 - `lst[:-1]   # [0,1,2,3,4] - everything except last item` 
 
-![Slicing](../images/slicing.jpg)
+![Slicing](images/slicing.jpg)
 
 iii. Unpacking
 This trick pulls stuffs or individual items out from lists and assign it to a named variables.
@@ -73,7 +72,7 @@ Usage: save you, when you want to loop through pairs in a list.
 `for name, score in [("Ali", 90), ("Sara", 85)]:
     `print(name, score) `
  
-![Unpacking](../images/unpacking.jpg)
+![Unpacking](images/unpacking.jpg)
 
 NOTE: 
 The variables must be equal to the amount of items in the list unless using asterisks (*) or replacing it with underscore (_).
@@ -92,20 +91,21 @@ for x in lst:
 
 
 2. Strings and it's tricks 
- ![string_tricks03](../images/string_tricks03.jpg)
+ ![string_tricks03](images/string_tricks03.jpg)
 
-![string_tricks02](../images/string_tricks02.jpg)
+![string_tricks02](images/string_tricks02.jpg)
 
 
-![string_tricks01](../images/string_tricks01.jpg)
+![string_tricks01](images/string_tricks01.jpg)
 
 
 3. Conversion tricks 
 
-![conversion_tricks](../images/conversion_tricks.jpg)
+![conversion_tricks](images/conversion_tricks.jpg)
+
 4. Statements and operators tricks 
 
-![statements_and_operator_tricks](../images/so_tricks.jpg)
+![statements_and_operator_tricks](images/so_tricks.jpg)
 
 Done 🥳✨
 Continuing python challenge tomorrow.
