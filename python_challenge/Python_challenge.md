@@ -40,5 +40,12 @@ This checks if array in b are square root or those in a.
 
 7. Return the day challenge
  ![return the day challenge](images/return_the_day_challenge.jpg)
+8. Fizzbuzz++  Challenge
+
+![fizzbuzz description](images/fizzbuzz_challenge_description.jpg)
+
+
+![fizzbuzz challenge](images/fizzbuzz_challenge.jpg)
+
 
 Challenge ends June 30, 2026 🥳
