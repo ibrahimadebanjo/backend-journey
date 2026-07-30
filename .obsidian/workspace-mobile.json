@@ -42,7 +42,7 @@
               "type": "markdown",
               "state": {
                 "file": "sql/postgresql/postgresql.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -141,7 +141,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "sql/db_design/database_design_and_schema.md.md",
+            "file": "sql/postgresql/postgresql.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "42e9840df67325ab",
+  "active": "0e3e21cca504f345",
   "lastOpenFiles": [
     "sql/postgresql/postgresql.md",
     "sql/db_design/database_design_and_schema.md",
